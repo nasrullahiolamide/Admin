@@ -1,7 +1,7 @@
 # Basic Server
 This application is a basic server implemented in `server.py` file using `socketserver` module and `SimpleHTTPResquestHandler`, that serves the static file in a directory.
 
-The admin template was downloaded from [https://bootstrapmade.com/demo/NiceAdmin/](Bootstrapmade NiceAdmin)
+The admin template was downloaded from [Bootstrapmade NiceAdmin](https://bootstrapmade.com/demo/NiceAdmin/)
 
 ## REQUIREMENT
 * Index.html
